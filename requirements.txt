@@ -1,0 +1,9 @@
+python-docx
+simplify-docx
+docx
+nltk
+pandas
+wordcloud
+lxml==4.3.3
+textblob
+python-dateutil
